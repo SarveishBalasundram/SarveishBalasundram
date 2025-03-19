@@ -13,7 +13,7 @@
 <p align="center"> 
   <samp>
     <br>
-    I'm a <b>second year</b> undergraduate from Universiti Teknologi Malaysia (UTM)
+    I'm a <b>third year</b> undergraduate from Universiti Teknologi Malaysia (UTM)
     <br>
       <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Escape From Ordinary!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
     <br>
